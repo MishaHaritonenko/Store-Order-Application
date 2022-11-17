@@ -1,0 +1,26 @@
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FillOrCancel.resources
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Navigation.resources
+E:\Visual Studio\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.NewCustomer.resources
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FillOrCancel.resources
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Navigation.resources
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.NewCustomer.resources
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\Misha\Desktop\Магазин приложение оформление заказов\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
